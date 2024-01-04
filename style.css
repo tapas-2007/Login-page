@@ -38,13 +38,13 @@ body {
   position: absolute;
   width: 85%;
   left: 27px;
-  transition: 0.5s ease-in-out;
+  transition: 0s ease-in-out;
 }
 .box-register {
   position: absolute;
   width: 85%;
   right: -350px;
-  transition: 0.5s ease-in-out;
+  transition: 0s ease-in-out;
 }
 .top-header {
   text-align: center;
